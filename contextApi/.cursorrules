@@ -1,0 +1,13 @@
+# Cursor Configuration for React + Tailwind CSS Project
+
+# CSS Configuration
+css.validate: false
+css.lint.unknownAtRules: ignore
+
+# Tailwind CSS specific rules
+# Ignore @tailwind directive warnings
+css.lint.unknownAtRules: ignore
+
+# Project specific settings
+files.associations:
+  "*.css": "tailwindcss" 
